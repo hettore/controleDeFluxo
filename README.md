@@ -17,3 +17,12 @@ Exemplo: <br>
 ![valor insuficiente](https://user-images.githubusercontent.com/24979432/192638233-66f0acc3-5944-48fd-a487-6da0ab98f0dc.png)
 
 ![deucerto](https://user-images.githubusercontent.com/24979432/192638403-8aade525-0b83-4ec2-bc75-62117ac814af.png)
+
+![condicionais encadeadas](https://user-images.githubusercontent.com/24979432/192639652-9b491a4a-2715-4f8f-aee8-a3150053ddcb.png)
+
+
+Exemplo: <br>
+
+![encadeado exemplo](https://user-images.githubusercontent.com/24979432/192639671-e6c400b3-e434-40a2-9d27-37b9120dca9c.png)
+
+

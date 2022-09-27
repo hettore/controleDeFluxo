@@ -25,4 +25,9 @@ Exemplo: <br>
 
 ![encadeado exemplo](https://user-images.githubusercontent.com/24979432/192639671-e6c400b3-e434-40a2-9d27-37b9120dca9c.png)
 
+![condicção ternária](https://user-images.githubusercontent.com/24979432/192640728-e04c022e-1d80-489f-846f-1c70a721d1bf.png)
+
+Exemplo 1: <br>
+
+![condição ternária](https://user-images.githubusercontent.com/24979432/192640748-546fe583-c398-465a-8c65-6aa70971b014.png)
 

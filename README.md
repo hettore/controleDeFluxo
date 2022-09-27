@@ -31,3 +31,7 @@ Exemplo 1: <br>
 
 ![condição ternária](https://user-images.githubusercontent.com/24979432/192640748-546fe583-c398-465a-8c65-6aa70971b014.png)
 
+Exemplo 2: <br>
+
+![exemplo ternario 2](https://user-images.githubusercontent.com/24979432/192641376-6bc100bd-84e4-495c-8717-0893d2743423.png)
+
